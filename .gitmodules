@@ -1,0 +1,15 @@
+[submodule "Signal-Desktop"]
+	path = Signal-Desktop
+	url = https://github.com/signalapp/Signal-Desktop.git
+[submodule "uTox"]
+	path = uTox
+	url = https://github.com/uTox/uTox.git
+[submodule "clownfish"]
+	path = clownfish
+	url = https://github.com/vuhpdc/clownfish.git
+[submodule "social_mapper"]
+	path = social_mapper
+	url = https://github.com/SpiderLabs/social_mapper.git
+[submodule "OSINT-Framework"]
+	path = OSINT-Framework
+	url = https://github.com/lockfale/OSINT-Framework.git
