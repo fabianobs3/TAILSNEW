@@ -13,3 +13,6 @@
 [submodule "OSINT-Framework"]
 	path = OSINT-Framework
 	url = https://github.com/lockfale/OSINT-Framework.git
+[submodule "lyrebird"]
+	path = lyrebird
+	url = https://github.com/lyrebird-voice-changer/lyrebird.git
